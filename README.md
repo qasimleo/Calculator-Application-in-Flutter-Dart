@@ -1,4 +1,4 @@
-# Simple Calculator App
+# Calculator Application in Flutter | Dart
 
 I created this calculator using Flutter. 
 
